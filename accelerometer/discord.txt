@@ -1,0 +1,3 @@
+Hi all!
+
+I've had some issues initialiing the provided LIS2DH12 IMU.
