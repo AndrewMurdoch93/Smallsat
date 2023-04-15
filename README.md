@@ -5,10 +5,10 @@ All the arduino code necessary for the suborbital rocket launch challenge.
 Only make changes to the 'active' brach.
 
 # Useful links
-Domino4 github: https://github.com/domino4com \n
-Pin configuration of core: https://github.com/domino4com/CWV \n
-List of sensors: https://github.com/domino4com/xChips \n
-Prototype board tutorial: https://www.youtube.com/watch?v=Ia6bBskam-o \n
+- Domino4 github: https://github.com/domino4com
+- Pin configuration of core: https://github.com/domino4com/CWV 
+- List of sensors: https://github.com/domino4com/xChips 
+- Prototype board tutorial: https://www.youtube.com/watch?v=Ia6bBskam-o 
 
 # Order for completing examples
 - hello_world
